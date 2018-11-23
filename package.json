@@ -1,0 +1,31 @@
+{
+  "name": "ldesk",
+  "version": "1.0.0",
+  "description": "Website for Legal Desk",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Not yet tested"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vignesh09/Ldesk.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "app"
+  ],
+  "author": "Vignesh09, Malai001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vignesh09/Ldesk/issues"
+  },
+  "homepage": "https://github.com/vignesh09/Ldesk#readme"
+}
